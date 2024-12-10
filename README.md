@@ -2,4 +2,6 @@
 
 This is a collecttion of papers for LiDAR-camera fusion 3D detection methods. 
 
+We classify papers into three groups based on their fusion types: Early Fusion、Intermediate Fusion、Late Fusion.
+
 If you find some overlooked papers, please open issues or pull requests. :star::star::star:
