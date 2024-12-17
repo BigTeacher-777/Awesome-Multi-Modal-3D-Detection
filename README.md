@@ -9,6 +9,10 @@ If you find some overlooked papers, please open issues or pull requests. :star::
 # Contents
 - [Early Fusion](#early-fusion)
 - [Intermediate Fusion](#intermediate-fusion)
+  - [2022](#2022)
+  - [2021](#2021)
+  - [2020](#2020)
+  - [2019](#2019)
   - [2018](#2018)
 - [Late Fusion](#late-fusion)
 
@@ -87,8 +91,31 @@ If you find some overlooked papers, please open issues or pull requests. :star::
 </p>
 
 # Intermediate Fusion
-## 2021
+## 2022
+<p>
+<font size=3><b>Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection
+</b></font>
+<br>
+<font size=2>ECCV 2022.</font>
+<a href='https://arxiv.org/abs/2207.10316'>[paper]</a> <a href='https://github.com/zehuichen123/AutoAlignV2'>[code]</a>
+</p>
 
+<p>
+<font size=3><b>AutoAlign: Pixel-Instance Feature Aggregation for Multi-Modal 3D Object Detection
+</b></font>
+<br>
+<font size=2>IJCAI 2022.</font>
+<a href='https://arxiv.org/abs/2201.06493'>[paper]</a>
+</p>
+
+## 2021
+<p>
+<font size=3><b>Multi-Stage Fusion for Multi-Class 3D Lidar Detection
+</b></font>
+<br>
+<font size=2>ICCVW 2021.</font>
+<a href='https://openaccess.thecvf.com/content/ICCV2021W/AVVision/papers/Wang_Multi-Stage_Fusion_for_Multi-Class_3D_Lidar_Detection_ICCVW_2021_paper.pdf'>[paper]</a>
+</p>
 
 ## 2020
 <p>
