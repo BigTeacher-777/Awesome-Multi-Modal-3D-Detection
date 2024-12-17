@@ -38,6 +38,15 @@ If you find some overlooked papers, please open issues or pull requests. :star::
 </p>
 
 <p>
+<font size=3><b>FusionPainting: Multimodal Fusion with Adaptive Attention for 3D Object Detection
+</b></font>
+<br>
+<font size=2>ITSC 2021.</font>
+<a href='https://arxiv.org/abs/2106.12449'>[paper]</a>
+</p>
+
+
+<p>
 <font size=3><b>PointPainting: Sequential Fusion for 3D Object Detection
 </b></font>
 <br>
@@ -78,7 +87,52 @@ If you find some overlooked papers, please open issues or pull requests. :star::
 </p>
 
 # Intermediate Fusion
+## 2021
+
+
+## 2020
+<p>
+<font size=3><b>3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection
+</b></font>
+<br>
+<font size=2>ECCV 2020.</font>
+<a href='https://arxiv.org/abs/2004.12636'>[paper]</a> <a href='https://github.com/rasd3/3D-CVF'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection
+</b></font>
+<br>
+<font size=2>ECCV 2020.</font>
+<a href='https://arxiv.org/abs/2007.08856'>[paper]</a> <a href='https://github.com/happinesslz/EPNet'>[code]</a>
+</p>
+
+## 2019
+<p>
+<font size=3><b>Multi-Task Multi-Sensor Fusion for 3D Object Detection
+</b></font>
+<br>
+<font size=2>CVPR 2019.</font>
+<a href='https://arxiv.org/abs/2012.12397'>[paper]</a> <a href='https://github.com/abcSup/NotEnoughSleepAI'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>MVX-Net: Multimodal VoxelNet for 3D Object Detection
+</b></font>
+<br>
+<font size=2>ICRA 2019.</font>
+<a href='https://arxiv.org/abs/1904.01649'>[paper]</a>
+</p>
+
 ## 2018
+<p>
+<font size=3><b>PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation
+</b></font>
+<br>
+<font size=2>CVPR 2018.</font>
+<a href='https://arxiv.org/abs/1711.10871'>[paper]</a> <a href='https://github.com/JuliaChae/Pointfusion'>[code]</a>
+</p>
+
 <p>
 <font size=3><b>Fusing Bird’s Eye View LIDAR Point Cloud and Front View Camera Image for Deep Object Detection
 </b></font>
