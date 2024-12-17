@@ -80,6 +80,14 @@ If you find some overlooked papers, please open issues or pull requests. :star::
 # Intermediate Fusion
 ## 2018
 <p>
+<font size=3><b>Fusing Bird’s Eye View LIDAR Point Cloud and Front View Camera Image for Deep Object Detection
+</b></font>
+<br>
+<font size=2>IV 2018.</font>
+<a href='https://arxiv.org/abs/1711.06703'>[paper]</a> <a href='https://github.com/ZiningWang/Sparse_Pooling'>[code]</a>
+</p>
+
+<p>
 <font size=3><b>Deep Continuous Fusion for Multi-Sensor 3D Object Detection
 </b></font>
 <br>
