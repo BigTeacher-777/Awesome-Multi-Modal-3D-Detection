@@ -18,6 +18,14 @@ If you find some overlooked papers, please open issues or pull requests. :star::
 
 # Early Fusion
 <p>
+<font size=3><b>PAI3D: Painting Adaptive Instance-Prior for 3D Object Detection
+</b></font>
+<br>
+<font size=2>ECCVW 2022.</font>
+<a href='https://arxiv.org/pdf/2211.08055'>[paper]</a>
+</p>
+
+<p>
 <font size=3><b>Multimodal Virtual Point 3D Detection 
 </b></font>
 <br>
@@ -91,9 +99,74 @@ If you find some overlooked papers, please open issues or pull requests. :star::
 </p>
 
 # Intermediate Fusion
+## 2023
+<p>
+<font size=3><b>MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection
+</b></font>
+<br>
+<font size=2>CVPR 2023.</font>
+<a href='https://arxiv.org/pdf/2209.03102'>[paper]</a> <a href='https://github.com/SxJyJay/MSMDFusion'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>Cross Modal Transformer: Towards Fast and Robust 3D Object Detection
+</b></font>
+<br>
+<font size=2>ICCV 2023.</font>
+<a href='https://arxiv.org/pdf/2301.01283'>[paper]</a> <a href='https://github.com/junjie18/CMT'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>SemanticBEVFusion: Rethinking LiDAR-Camera Fusion in Unified Bird's-Eye View Representation for 3D Object Detection
+</b></font>
+<br>
+<font size=2>IROS 2023.</font>
+<a href='https://arxiv.org/pdf/2212.04675'>[paper]</a>
+</p>
+
+<p>
+<font size=3><b>BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation
+</b></font>
+<br>
+<font size=2>ICRA 2023.</font>
+<a href='https://arxiv.org/pdf/2205.13542'>[paper]</a> <a href='https://github.com/mit-han-lab/bevfusion'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>Center Feature Fusion: Selective Multi-Sensor Fusion of Center-based Objects
+</b></font>
+<br>
+<font size=2>ICRA 2023.</font>
+<a href='https://arxiv.org/pdf/2209.12880'>[paper]</a>
+</p>
+
 ## 2022
 <p>
-<font size=3><b>Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection
+<font size=3><b>TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers
+</b></font>
+<br>
+<font size=2>CVPR 2022.</font>
+<a href='https://arxiv.org/pdf/2203.11496'>[paper]</a> <a href='https://github.com/XuyangBai/TransFusion'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>DeepInteraction: 3D Object Detection via Modality Interaction
+</b></font>
+<br>
+<font size=2>NeurIPS 2022.</font>
+<a href='https://arxiv.org/pdf/2208.11112'>[paper]</a> <a href='https://github.com/fudan-zvg/DeepInteraction'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>Unifying Voxel-based Representation with Transformer for 3D Object Detection
+</b></font>
+<br>
+<font size=2>NeurIPS 2022.</font>
+<a href='https://arxiv.org/pdf/2206.00630'>[paper]</a> <a href='https://github.com/dvlab-research/UVTR'>[code]</a>
+</p>
+
+<p>
+<font size=3><b>AutoAlignV2: Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection
 </b></font>
 <br>
 <font size=2>ECCV 2022.</font>
@@ -177,6 +250,14 @@ If you find some overlooked papers, please open issues or pull requests. :star::
 </p>
 
 # Late Fusion
+<p>
+<font size=3><b>SparseFusion: Fusing Multi-Modal Sparse Representations for Multi-Sensor 3D Object Detection
+</b></font>
+<br>
+<font size=2>ICCV 2023.</font>
+<a href='https://arxiv.org/pdf/2304.14340'>[paper]</a> <a href='https://github.com/yichen928/SparseFusion'>[code]</a>
+</p>
+
 <p>
 <font size=3><b>Fast-CLOCs: Fast Camera-LiDAR Object Candidates Fusion for 3D Object Detection
 </b></font>
